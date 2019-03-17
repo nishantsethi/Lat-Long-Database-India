@@ -3,7 +3,7 @@ Provided with names of location, Getting the Latitude and Longitude, Creating a 
 
 While creating a web platform, Sometimes we have to filter the results on the basis of location. With the help of Google Geocoding, I created this program in which the input I gave was the name of cities and the final output was a csv with Distance between every ciy. This can later be used for to filter to say states with difference under 100kms etc.
 
-WorkFlow
+## WorkFlow
 
 1. Provide a csv with all the names of location.
 2. Use Geo-code.ipynb to get a csv with Latitude and Logitude.
