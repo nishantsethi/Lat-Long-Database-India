@@ -13,5 +13,3 @@ While creating a web platform, Sometimes we have to filter the results on the ba
 4. The file load-matrix.py loads Matrix of distances between locations and gives the six most near ones.
 ![Alt text](https://raw.githubusercontent.com/nishantsethi/Lat-long-Database-india/master/Screenshot%20at%20Mar%2015%2013-26-34.png?raw=true "6 Nearest Cities")
 
-For getting the final CSV shown in 3rd step. Kindly mail me at sethi.nishant43@gmail.com
-This can work for any search option when trying to filter down with locations
